@@ -1,0 +1,1 @@
+ffmpeg -d -re -i "rtmpe://netradio-r1-flash.nhk.jp playpath=NetRadio_R1_flash@63346 app=live swfUrl=http://www3.nhk.or.jp/netradio/files/swf/rtmpe.swf swfVfy=1 live=1" -vn -c:a mp3 -b:a 256k -f mp3 - | ./shout_nhk_r1.pl
