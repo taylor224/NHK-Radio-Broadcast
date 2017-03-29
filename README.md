@@ -1,7 +1,6 @@
 # NHK-Radio-Broadcast
 
-####This is re-Broadcasting script to Shoutcast for people in outside of Japan.
-####With this script, you can re-broadcast and listen nhk radio from outside of Japan.
+#### This is re-Broadcasting script to Shoutcast for people in outside of Japan. With this script, you can re-broadcast and listen nhk radio from outside of Japan.
 
 You should run this script at server that located in Japan.
 
