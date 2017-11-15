@@ -16,8 +16,9 @@ You can re-use shout_nhk_r1.pl code for nhk_r2 and nhk_fm.
 
 #### How to install libshout
 
-1. Download Shout-2.1.tar.gz to your target server
-2. Then un-tar the tar.gz
+1. Install libshout (https://github.com/xiph/Icecast-libshout/blob/master/INSTALL)
+2. Download Shout-2.1.tar.gz to your target server
+3. Then un-tar the tar.gz
 ```
 tar -xvf Shout-2.1.tar.gz
 ```
